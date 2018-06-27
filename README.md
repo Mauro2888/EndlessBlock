@@ -5,5 +5,4 @@ Python game test using a Pygame Library
 - For now The game have only 3 lvl and simple design
 
 - Support joypad and joystick
-- All background and player assets are created by me
 - Thanks to Scott Barlow for the Menu Library
